@@ -6,4 +6,5 @@ jupyter
 ipykernel
 tensorflow
 keras
+streamlit
 
